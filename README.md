@@ -4,7 +4,7 @@
 https://sahilg13.github.io/data-science-tutorial/
 
 ## About
-This project walks the reader through the data science pipeline while trying to answer the question of whether Drake's music appeals to different genders. The website contains all the code and detailed prose outlining the following steps of the pipeline:
+This project walks the reader through the data science pipeline while trying to answer the question of whether Drake's music appeals to different genders. The website contains all the Python code and detailed prose outlining the following steps of the pipeline:
 
 1. Data collection
 2. Data management
